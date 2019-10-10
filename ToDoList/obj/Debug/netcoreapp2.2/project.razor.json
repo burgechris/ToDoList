@@ -2971,6 +2971,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views/Categories/Show.cshtml",
+      "TargetPath": "Views/Categories/Show.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Categories/Index.cshtml",
+      "TargetPath": "Views/Categories/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views/Items/Show.cshtml",
       "TargetPath": "Views/Items/Show.cshtml",
       "FileKind": "mvc"
@@ -2983,6 +2993,16 @@
     {
       "FilePath": "Views/Items/DeleteAll.cshtml",
       "TargetPath": "Views/Items/DeleteAll.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Categories/Create.cshtml",
+      "TargetPath": "Views/Categories/Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Categories/New.cshtml",
+      "TargetPath": "Views/Categories/New.cshtml",
       "FileKind": "mvc"
     }
   ],
