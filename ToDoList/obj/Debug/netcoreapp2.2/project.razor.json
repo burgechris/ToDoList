@@ -2996,11 +2996,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Categories/Create.cshtml",
-      "TargetPath": "Views/Categories/Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "Views/Categories/New.cshtml",
       "TargetPath": "Views/Categories/New.cshtml",
       "FileKind": "mvc"
